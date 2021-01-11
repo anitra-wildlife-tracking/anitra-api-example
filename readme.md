@@ -3,7 +3,7 @@
 
 # Anitra API sample code
 
-This code provides a sample Anitra API-based application, a command line interface to export device list and device data. This code is only sample code to indicate how to work with the API, and any real application would need more checks and to ensure that ie the user is not inputting anything in the wrong format.
+This code provides a sample Anitra API-based application, a command line interface to export device list and device data. This code is only sample code to indicate how to work with the API, and any real application would need more user inputs checks and to ensure that ie the user is not inputting anything in the wrong format or proper exception handling.
 
 ## Commands
 
