@@ -60,6 +60,7 @@ class ScrollResponse():
             positions_dict = self.fetch_positions()
 
             if (first):
+                first = False
                 yield self.header
 
             for pos in positions_dict:
